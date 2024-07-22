@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://docs.google.com/document/d/13IhxmCJMHPXKl4CLaC3zgwlpsDZ_UjniqAGAwLbeehs/edit?usp=sharing" alt="google docs resume">
-    <img src="https://img.shields.io/badge/Google Resume-blue?style=for-the-badge&logo=google&logoColor=black">
+  <a href="https://docs.google.com/document/d/13IhxmCJMHPXKl4CLaC3zgwlpsDZ_UjniqAGAwLbeehs/edit?usp=sharing" alt="surfit resume">
+    <img src="https://img.shields.io/badge/Surfit Web Resume-blue?style=for-the-badge&logo=Storybook&logoColor=black">
   </a>
   <a href="https://garamflow.oopy.io/" alt="notion portfolio">
     <img src="https://img.shields.io/badge/Notion Portfolio-white?style=for-the-badge&logo=Notion&logoColor=black">
