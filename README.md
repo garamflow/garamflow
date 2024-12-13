@@ -5,7 +5,7 @@
   <a href="https://garamflow.oopy.io/" alt="notion portfolio">
     <img src="https://img.shields.io/badge/Notion Portfolio-white?style=for-the-badge&logo=Notion&logoColor=black">
   </a>
-  <a href="https://velog.io/@garamflow" alt="blog link">
+<!--   <a href="https://velog.io/@garamflow" alt="blog link">
     <img src="https://img.shields.io/badge/Velog blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
+  </a> -->
 </div>
